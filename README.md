@@ -4,7 +4,7 @@
 
 ## Description
 
-A brief description of your Android project goes here. Explain what problem it solves or what value it provides to the users.
+The expense manager is a software application that helps individuals to track and manage their expenses efficiently. It offers features such as expense categorization, budget tracking, and data visualization to provide a comprehensive solution for financial management. By organizing expenses, setting budgets, and visualizing financial data, users can gain insights, make informed decisions, and work towards achieving their financial goals.
 
 ## Table of Contents
 
@@ -12,34 +12,41 @@ A brief description of your Android project goes here. Explain what problem it s
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Features
 
-List the key features and functionalities of your Android app.
+- User-friendly interface for expense recording and management.
+- Expense categorization for better understanding of spending habits.
+- Budget setting and tracking feature.
+- Detailed expense report generation.
+- Robust security measures to protect user data.
 
 ## Screenshots
 
 Include relevant screenshots or images of your app's user interface.
 
+![image](https://github.com/Younus-Saberi/Expensify/assets/73644685/a595e569-bedc-43da-a152-bcf28e686242)
+![image](https://github.com/Younus-Saberi/Expensify/assets/73644685/2de71099-0799-4103-92e8-84b56b4e2021)
+![image](https://github.com/Younus-Saberi/Expensify/assets/73644685/ad104bc1-57a8-4240-bfc0-e3f19271463d)
+![image](https://github.com/Younus-Saberi/Expensify/assets/73644685/399d1b82-8fe1-4d73-b5c9-5f1c3d5754d2)
+![image](https://github.com/Younus-Saberi/Expensify/assets/73644685/4866f36c-da78-4a35-be4f-afc691483952)
+
+
+
 ## Installation
 
-Provide step-by-step instructions on how to install and set up your Android project. Include any specific instructions for configuring the development environment, such as installing Android Studio or setting up device emulators.
+```
+git clone https://github.com/Younus-Saberi/Expensify
+```
+- Open the Android Studio
+- Click on Open Project
+- Select the Expensify 
 
 ## Usage
 
-Explain how users can interact with your Android app. Provide clear instructions on how to navigate through the app and utilize its features. You can also include code snippets or examples to demonstrate usage.
-
-## Dependencies
-
-List any external libraries, frameworks, or APIs that your Android project depends on. Include instructions on how to add these dependencies to the project.
-
-## Contributing
-
-If you are open to contributions from the community, provide guidelines on how others can contribute to your Android project. Include information on how to report issues, submit pull requests, and follow any coding conventions or guidelines.
+Users can easily input and categorize their expenses using the user-friendly interface of the expense manager. By assigning expenses to specific categories, users can organize their financial data and gain insights into their spending patterns. Additionally, the budget tracking feature helps users set and monitor their spending limits, promoting responsible spending habits and better financial management.
 
 ## License
 
@@ -47,4 +54,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-Provide your contact details or any relevant links (e.g., email, website, social media) for users or contributors to reach out to you.
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- Email: [younussaberi@gmail.com](mailto:younussaberi@gmail.com)
+- Twitter: [@younussaberi](https://twitter.com/younussaberi)
+- GitHub: [Younus-Saberi](https://github.com/Younus-Saberi)
+
